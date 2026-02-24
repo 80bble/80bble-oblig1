@@ -4,7 +4,7 @@
 
 [X] Virtual environment created (folder: venv/)
 
-[X] Repository initialized with Git
+[X] Repository initialized with Git 
 
 [X] README.md file created with proper instructions
 
@@ -12,4 +12,4 @@
 
 [X] .gitignore created 
 
-[X] Code pushed to GitHub main branch
+[] Code pushed to GitHub main branch
